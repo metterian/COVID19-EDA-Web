@@ -30,6 +30,8 @@ ALLOWED_HOSTS = [
     '54.180.99.216',
     'localhost',
     '.ap-northeast-2.compute.amazonaws.com',
+    '127.0.0.1',
+    '54.180.99.216:8080',
 ]
 
 

@@ -26,7 +26,9 @@ SECRET_KEY = '+(firj31=xtj_0m%f44^mk*@%i^$3$x^6^=158428tso0q6g$n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    '54.180.99.216',
+]
 
 
 # Application definition
